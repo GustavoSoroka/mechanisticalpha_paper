@@ -148,25 +148,6 @@ FILE *OSCs;
 //PESOS=fopen("Dados/pesos.dat", "w");          //conexões
 RASTER=fopen(experimento, "w");    //rasterplot
 
-//fprintf(ONE, "t\tV\ttheta\tadp\tpsp\talfa\ttau\tf_inib\n");
-//fprintf(TWO, "t\tV\ttheta\tadp\tpsp\talfa\ttau\tf_inib\n");
-//fprintf(THREE, "t\tV\ttheta\tadp\tpsp\talfa\ttau\tf_inib\n");
-//fprintf(FOUR, "t\tV\ttheta\tadp\tpsp\talfa\ttau\tf_inib\n");
-//fprintf(FIVE, "t\tV\ttheta\tadp\tpsp\talfa\ttau\tf_inib\n");
-//fprintf(SIX, "t\tV\ttheta\tadp\tpsp\talfa\ttau\tf_inib\n");
-//fprintf(SEVEN, "t\tV\ttheta\tadp\tpsp\talfa\ttau\tf_inib\n");
-//fprintf(EIGHT, "t\tV\ttheta\tadp\tpsp\talfa\ttau\tf_inib\n");
-//fprintf(NINE, "t\tV\ttheta\tadp\tpsp\talfa\ttau\tf_inib\n");
-//fprintf(TEN, "t\tV\ttheta\tadp\tpsp\talfa\ttau\tf_inib\n");
-
-//fprintf(IN_ONE, "t\tV\ttheta\tadp\tpsp\talfa\ttau\tf_inib\n");
-//fprintf(IN_TWO, "t\tV\ttheta\tadp\tpsp\talfa\ttau\tf_inib\n");
-//fprintf(IN_THREE, "t\tV\ttheta\tadp\tpsp\talfa\ttau\tf_inib\n");
-//fprintf(IN_FOUR, "t\tV\ttheta\tadp\tpsp\talfa\ttau\tf_inib\n");
-//fprintf(IN_FIVE, "t\tV\ttheta\tadp\tpsp\talfa\ttau\tf_inib\n");
-
-
-//fprintf(OSCs, "t\tnada\tE1\tE2\tE3\tE4\tE5\tnada2\n");
 
 
 
