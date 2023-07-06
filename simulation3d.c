@@ -115,7 +115,7 @@ float MMM[9][13] = {
 
 // -- // -- ARQUIVOS -- // -- // ----------------------------
 char experimento[30];
-sprintf(experimento, "data20reps_12demaio.dat");
+sprintf(experimento, "data3d.dat");
 
 FILE *ONE, *TWO, *THREE, *FOUR, *FIVE, *SIX, *SEVEN, *EIGHT, *NINE, *TEN,*PESOS, *RASTER;
 FILE *IN_ONE, *IN_TWO, *IN_THREE, *IN_FOUR, *IN_FIVE;
